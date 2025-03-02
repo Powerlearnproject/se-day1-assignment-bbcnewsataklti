@@ -47,4 +47,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Why is the Improved Prompt More Effective?
 To craft effective prompts, be clear, specific, and concise. 
 Use keywords that guide the AI towards the kind of response you want.
-Adding context helps the AI understand your request better
+Adding context helps the AI understand your request better.
